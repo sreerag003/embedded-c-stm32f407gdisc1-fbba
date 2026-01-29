@@ -90,12 +90,12 @@ Each subfolder is a **separate STM32 project**, created, built, flashed, and tes
 #### led_blink_structandunions
 - LED blinking implemented using structures and unions 
 - Media included:
-  - [led_blink_struct_and_unions.mp4](target/led_blink_struct_and_uinions.mp4)
+  - [led_blink_struct_and_unions.mp4](target/led_blink_structandunions/led_blink_struct_and_unions.mp4)
 
 #### led_blinking
 - Basic LED blinking experiment 
 - Media included:
-  - [led_blinking.mp4](target/led_blinking/led_blinking.mp4)
+  - [led_blinking.mp4](target/led_blinking/led_blinking Debug.mp4)
 
 Media files (`.mp4`, `.jpeg`) are included **intentionally** to demonstrate actual hardware behavior and execution on the STM32 board.
 
