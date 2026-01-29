@@ -16,7 +16,7 @@ It is a learning archive preserved as close as possible to the original course w
 
 The repository is divided into two main parts:
 
-```text
+
 .
 ├── host/
 └── target/
