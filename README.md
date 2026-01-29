@@ -20,7 +20,7 @@ The repository is divided into two main parts:
 .
 ├── host/
 └── target/
-
+```
 host/ — Host-based Embedded C Programs
 
 The host/ folder contains Embedded C programs executed on a Linux host machine.
@@ -29,6 +29,7 @@ Each subfolder corresponds to one exercise from the course, created as an indivi
 These exercises focus on strengthening C fundamentals required for embedded systems.
 
 Exercises included
+```text
 host/
 ├── exercise_ascii_code
 ├── exercise_biggest_among_3_numbers
@@ -47,6 +48,7 @@ host/
 ├── exercise_switch
 ├── exercise_variable_definition
 └── exercise_while
+```
 
 Each exercise folder contains:
 - Source code written during the course
