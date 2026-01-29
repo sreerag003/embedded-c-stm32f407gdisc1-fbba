@@ -1,33 +1,34 @@
 # Embedded C – STM32F407G-DISC1 (FastBit Academy)
 
-This repository contains **all files created while completing the course_Embedded C for Absolute Beginners_ by FastBit Academy**.
+This repository contains **all files created while completing the course _Embedded C for Absolute Beginners_ by FastBit Academy**.
 
 The purpose of this repository is to **demonstrate genuine course completion and hands-on learning**, covering both:
 
-- Host-based Embedded C programs 
-- Target-based STM32 projects tested on real hardware 
+- Host-based Embedded C programs  
+- Target-based STM32 projects tested on real hardware  
 
-This is **not a production firmware repository**. It is a learning archive preserved as close as possible to the original course work.
+This is **not a production firmware repository**.  
+It is a learning archive preserved as close as possible to the original course work.
 
 ---
 
 ## Repository Overview
 
 The repository is divided into two main parts:
+
+```text
 .
 ├── host/
 └── target/
 
----
+host/ — Host-based Embedded C Programs
 
-## host/ — Host-based Embedded C Programs
+The host/ folder contains Embedded C programs executed on a Linux host machine.
 
-The `host/` folder contains **Embedded C programs executed on a Linux host machine**.
+Each subfolder corresponds to one exercise from the course, created as an individual Eclipse/CDT project.
+These exercises focus on strengthening C fundamentals required for embedded systems.
 
-Each subfolder corresponds to **one exercise from the course**, created as an individual Eclipse/CDT project. These exercises focus on strengthening C fundamentals required for embedded systems.
-
-### Exercises included
-
+Exercises included
 host/
 ├── exercise_ascii_code
 ├── exercise_biggest_among_3_numbers
@@ -46,7 +47,6 @@ host/
 ├── exercise_switch
 ├── exercise_variable_definition
 └── exercise_while
-
 
 Each exercise folder contains:
 - Source code written during the course
@@ -112,5 +112,3 @@ Media files (`.mp4`, `.jpeg`) are included **intentionally** to demonstrate actu
 - Course: Embedded C for Absolute Beginners 
 - Target Board: STM32F407G-DISC1 
 - STMCUBE IDE
-
-
