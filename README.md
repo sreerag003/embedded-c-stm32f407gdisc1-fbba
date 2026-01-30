@@ -110,7 +110,18 @@ Media files (`.mp4`, `.jpeg`) are included **intentionally** to demonstrate actu
 ---
 
 ## Course Reference
+- Course: Embedded C for Absolute Beginners
 
-- Course: Embedded C for Absolute Beginners 
-- Target Board: STM32F407G-DISC1 
-- STMCUBE IDE
+## Concepts Covered
+- Register-level programming
+- GPIO configuration
+- Clock control (RCC)
+
+## Tools
+- STM32CubeIDE
+- GNU ARM Toolchain
+
+## Hardware
+- STM32F407G-DISC1
+- ARM Cortex-M4
+- On-board LEDs, 4x4 Matrix keyboard
